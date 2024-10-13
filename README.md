@@ -10,12 +10,14 @@
 
 This tool is useful for anyone planning to take an educational loan and helps provide clarity on the overall loan amount and interest to be paid.
 
--Enter the fees for Year 1: 50000
--Enter the fees for Year 2: 55000
--Enter the fees for Year 3: 60000
--Enter the fees for Year 4: 65000
--Enter the interest rate: 5
+#Example:
 
--Total Loan Amount: 230000
--Total Interest Added: 11500
+#Enter the fees for Year 1: 50000
+#Enter the fees for Year 2: 55000
+#Enter the fees for Year 3: 60000
+#Enter the fees for Year 4: 65000
+#Enter the interest rate: 5
+
+#Total Loan Amount: 230000
+#Total Interest Added: 11500
 
